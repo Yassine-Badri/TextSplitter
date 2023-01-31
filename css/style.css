@@ -121,3 +121,10 @@ height: 35px;
 .container {
   max-width: 1450px;
 }
+#buttons {
+  display: inline-flex;
+  align-items: center;
+}
+#split {
+  margin-right: 1.2rem;
+}
